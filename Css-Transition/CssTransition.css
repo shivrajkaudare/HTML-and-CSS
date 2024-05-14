@@ -1,0 +1,19 @@
+#div1{
+    height: 100px;
+    width: 100px;
+    background-color: #E91E63;
+    margin: 0px auto ;
+    margin-top: 10px;
+    transition: margin-top 2s ease-in 0.2s; /* property duration ease-in/ease-out delay*/
+}
+#div1:hover{
+    margin-top: 400px;
+    background-color: blue;
+    border-radius: 50px;
+    transform: scale(1.5);
+   
+}
+div{
+    
+    background-image: url("/bg.jpg.jpg");
+}
